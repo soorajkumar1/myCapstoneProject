@@ -37,3 +37,5 @@ Install the required libraries using pip:
 	•	TensorFlow and Keras for providing robust machine learning tools.
 
 # Thank you for visiting my Github. Cheers!
+
+Please visit my [Medium](https://medium.com/@soorajharani.sh/dog-vs-cat-image-classification-using-cnn-ce173775c463) blog to understand the code better. 
