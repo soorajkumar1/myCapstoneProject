@@ -32,5 +32,8 @@ Install the required libraries using pip:
 
 	•	pip install tensorflow keras numpy matplotlib
 
+# Acknowledgments
+	•	Dataset sourced from Kaggle’s Dogs vs Cats.
+	•	TensorFlow and Keras for providing robust machine learning tools.
 
 # Thank you for visiting my Github. Cheers!
