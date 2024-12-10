@@ -30,7 +30,7 @@ The CNN model consists of:
 
 Install the required libraries using pip:
 
-pip install tensorflow keras numpy matplotlib
+	•	pip install tensorflow keras numpy matplotlib
 
 
 # Thank you for visiting my Github. Cheers!
